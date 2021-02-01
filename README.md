@@ -1,2 +1,3 @@
 # hw2-2020
-The starter code for Homework 2 Winter 2021 term
+Homework 2 - Winter 2021
+[Link Here](https://anuya-karnik.github.io/homework2-2021/)
